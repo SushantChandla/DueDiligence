@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 panda = "*"
 matplotlib = "*"
+seaborn = "*"
+numpy = "*"
+sklearn = "*"
 
 [dev-packages]
 
